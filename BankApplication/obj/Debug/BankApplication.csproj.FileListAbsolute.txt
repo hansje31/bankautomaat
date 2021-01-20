@@ -1,0 +1,79 @@
+C:\Users\jpgri\source\repos\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\jpgri\source\repos\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\jpgri\source\repos\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\jpgri\source\repos\BankApplication\BankApplication\obj\Debug\BankApplication.csprojAssemblyReference.cache
+C:\Users\jpgri\source\repos\BankApplication\BankApplication\obj\Debug\BankApplication.Form1.resources
+C:\Users\jpgri\source\repos\BankApplication\BankApplication\obj\Debug\BankApplication.Properties.Resources.resources
+C:\Users\jpgri\source\repos\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.GenerateResource.cache
+C:\Users\jpgri\source\repos\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\jpgri\source\repos\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\jpgri\source\repos\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.Form1.resources
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.Properties.Resources.resources
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.GenerateResource.cache
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\System.Buffers.dll
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\System.Memory.dll
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\System.Buffers.xml
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\System.Memory.xml
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CopyComplete
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\bin\Debug\connectionstring.txt
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.LoggedIn.resources
+C:\Users\sigri\Downloads\joao\BankApplication\BankApplication\BankApplication\obj\Debug\BankApplication.csprojAssemblyReference.cache
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\connectionstring.txt
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\BCrypt.Net-Next.dll
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\System.Buffers.dll
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\System.Memory.dll
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\System.Numerics.Vectors.dll
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\BCrypt.Net-Next.xml
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\System.Buffers.xml
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\System.Memory.xml
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\System.Numerics.Vectors.xml
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\obj\Debug\BankApplication.csprojAssemblyReference.cache
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\obj\Debug\BankApplication.Form1.resources
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\obj\Debug\BankApplication.LoggedIn.resources
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\obj\Debug\BankApplication.Properties.Resources.resources
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.GenerateResource.cache
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CopyComplete
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+D:\School\Applicatieontwikkelaar-opleiding\project lvl 9 geldautomaat\bankapplication-2\commit 7\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\connectionstring.txt
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\BankApplication.exe.config
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\BankApplication.exe
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\BankApplication.pdb
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\System.Buffers.dll
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\System.Memory.dll
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\System.Buffers.xml
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\System.Memory.xml
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\obj\Debug\BankApplication.csprojAssemblyReference.cache
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\obj\Debug\BankApplication.Form1.resources
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\obj\Debug\BankApplication.LoggedIn.resources
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\obj\Debug\BankApplication.Properties.Resources.resources
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\obj\Debug\BankApplication.csproj.GenerateResource.cache
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\obj\Debug\BankApplication.csproj.CopyComplete
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\obj\Debug\BankApplication.exe
+C:\Users\nightsky42\source\repos\bankapplicatie\BankApplication\obj\Debug\BankApplication.pdb

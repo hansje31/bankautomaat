@@ -1,0 +1,1 @@
+﻿Persist Security Info=False;server=localhost;database=bank;uid=root;pwd="toor";Pooling=false;Connection Timeout=10;Protocol=socket;Port="3306"

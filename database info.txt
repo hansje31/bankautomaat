@@ -1,0 +1,3 @@
+database name: bank
+password: toor
+username: root
